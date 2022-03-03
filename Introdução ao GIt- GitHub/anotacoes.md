@@ -1,4 +1,4 @@
-## Comandos importante em Git 
+## Comandos importantes em Git 
 
 
 
